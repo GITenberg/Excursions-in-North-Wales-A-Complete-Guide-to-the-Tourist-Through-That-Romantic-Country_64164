@@ -1,0 +1,23 @@
+_repo: Excursions-in-North-Wales-A-Complete-Guide-to-the-Tourist-Through-That-Romantic-Country_64164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hicklin, John
+    gutenberg_agent_id: '9534'
+    url: http://www.gutenberg.org/2009/agents/9534
+description: ''
+gutenberg_issued: '2020-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Wales, North -- Guidebooks'
+- GITenberg
+title: "Excursions in North Wales\r\nA Complete Guide to the Tourist Through That\
+  \ Romantic Country"
+url: http://www.gutenberg.org/ebooks/64164
